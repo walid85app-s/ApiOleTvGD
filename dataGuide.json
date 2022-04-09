@@ -1,0 +1,94 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "networkAds": "ironsource",
+        "networkId": "13a14fa79",
+        "admobId": "",
+        "bannerAdmob": "ca-app-pub-",
+        "interstitialAdmob": "ca-app-pub-",
+        "nativeAdmob": "ca-app-pub-"	
+      }
+    ],
+
+    "items": [
+      {
+        "title": "walid Hachki",
+        "image": "https://usercontent2.hubstatic.com/6961601.jpg",
+		
+        "color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": true,
+		"link_title": "Get Coins",
+		"setLink": "https://www.google.com",
+        "image_link": "https://www.google.com",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "isNative": false
+		
+      },
+      {
+        "title": "The Old 2",
+        "image": "https://usercontent1.hubstatic.com/8037694.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": false
+      },
+      {
+        "title": "Call of Cthulhu: Wasted Land ",
+        "image": "https://usercontent1.hubstatic.com/6961608.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": false
+      },
+      {
+        "title": "Dead Space Android",
+        "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": false
+      },
+      {
+        "title": "Bloody Mary",
+        "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": false
+      },
+      {
+        "title": "Twisted Lands: Shadow Town",
+        "image": "https://usercontent1.hubstatic.com/6961620.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": false
+      }
+    ]
+
+  }
+}
