@@ -14,30 +14,42 @@
     ],
 
     "items": [
+       {
+        "title": "Online Chat For Beginners",
+        "image": "https://usercontent1.hubstatic.com/6961608.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": true,
+		"link_title": "More Details",
+		"setLink": "",
+        "image_link": "",
+        "text": "Being online for a random online chat can be difficult for many people. The internet may not be very familier with the world of technology. Or maybe you're familier, but not familier with where to look or how to start",
+        "isNative": false
+      },
       {
-        "title": "walid Hachki",
+        "title": "What Is Online Chat",
         "image": "https://usercontent2.hubstatic.com/6961601.jpg",
 		
         "color": "#FFFFFF",
         "text_size": "25",
         "isLink": true,
-		"link_title": "Get Coins",
+		"link_title": "More Details",
 		"setLink": "https://www.google.com",
         "image_link": "https://www.google.com",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "text": "Online chat may refer to any kind of communication over the Internet that offers a real-time transmission of text messages from sender to receiver. Chat messages are generally short in order to enable other participants to respond quickly.",
         "isNative": false
 		
       },
       {
-        "title": "The Old 2",
+        "title": "Online Chat",
         "image": "https://usercontent1.hubstatic.com/8037694.jpg",
 		"color": "#FFFFFF",
         "text_size": "25",
-        "isLink": false,
-		"link_title": "",
+        "isLink": true,
+		"link_title": "More Details",
 		"setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "You have the opportunity to chat in real time. You are not receiving a message from the days before. At that moment, there are other members of the chat community.",
         "isNative": false
       },
       {
@@ -53,19 +65,19 @@
         "isNative": false
       },
       {
-        "title": "Dead Space Android",
+        "title": "Free Online Chat",
         "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg",
 		"color": "#FFFFFF",
         "text_size": "25",
-        "isLink": false,
-		"link_title": "",
+        "isLink": true,
+		"link_title": "More Details",
 		"setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "There are online chat brands that do not charge a fee. Free, always better and easier in the pocket and more popular. There are fewer problems joining the free online chat",
         "isNative": false
       },
       {
-        "title": "Bloody Mary",
+        "title": "Get As You Like",
         "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
 		"color": "#FFFFFF",
         "text_size": "25",
@@ -73,11 +85,11 @@
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "Writhing your free chat spokeperson to your web browser will guide you through many chats. Now you have decided on an area of interest and clicked to enter that chat room, what now you'll start chatting for free.",
         "isNative": false
       },
       {
-        "title": "Twisted Lands: Shadow Town",
+        "title": "Meet new people now",
         "image": "https://usercontent1.hubstatic.com/6961620.jpg",
 		"color": "#FFFFFF",
         "text_size": "25",
@@ -85,7 +97,7 @@
 		"link_title": "",
 		"setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "You'll meet new people and start a nice conversation. Soon inline chat will not be very new. After entering the conversation several times, you will become familier with the process.",
         "isNative": false
       }
     ]
